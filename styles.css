@@ -1,0 +1,43 @@
+*, ::after , ::before {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    font-family:sans-serif;
+    background: linear-gradient(to right ,#998889,#fac73c);
+}
+
+h1{
+    margin-top: 25px;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.input {
+    width: 300px;
+    height: 20px;
+    padding:  auto;
+    outline: none; 
+    border: 1px solid grey;
+    font-size: 13x;
+    vertical-align: middle;
+
+
+}
+.add-btn {
+    width: 50px;
+    height: 22px;
+    border: 1px solid grey;
+    font-size: 13x;
+    vertical-align: middle;
+}
+.to-do-lists {
+    margin-top: 20px ;
+    text-align: center;
+
+}
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 18px;
+   
+}
